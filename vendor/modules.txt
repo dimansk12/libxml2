@@ -1,17 +1,6 @@
 # github.com/davecgh/go-spew v1.1.1
 ## explicit
 github.com/davecgh/go-spew/spew
-# github.com/lestrrat-go/libxml2 v0.0.0-20201123224832-e6d9de61b80d
-## explicit
-github.com/lestrrat-go/libxml2
-github.com/lestrrat-go/libxml2/clib
-github.com/lestrrat-go/libxml2/dom
-github.com/lestrrat-go/libxml2/internal/debug
-github.com/lestrrat-go/libxml2/internal/option
-github.com/lestrrat-go/libxml2/parser
-github.com/lestrrat-go/libxml2/types
-github.com/lestrrat-go/libxml2/xpath
-github.com/lestrrat-go/libxml2/xsd
 # github.com/pkg/errors v0.9.1
 ## explicit
 github.com/pkg/errors

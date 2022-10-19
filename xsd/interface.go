@@ -1,6 +1,6 @@
 package xsd
 
-import "github.com/lestrrat-go/libxml2/internal/option"
+import "github.com/dimansk12/libxml2/internal/option"
 
 // Schema represents an XML schema.
 type Schema struct {

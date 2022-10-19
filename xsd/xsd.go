@@ -17,8 +17,8 @@
 package xsd
 
 import (
-	"github.com/lestrrat-go/libxml2/clib"
-	"github.com/lestrrat-go/libxml2/types"
+	"github.com/dimansk12/libxml2/clib"
+	"github.com/dimansk12/libxml2/types"
 	"github.com/pkg/errors"
 )
 
@@ -27,7 +27,6 @@ const ValueVCCreate = 1
 // Parse is used to parse an XML Schema Document to produce a
 // Schema instance. Make sure to call Free() on the instance
 // when you are done with it.
-
 
 func Parse(buf []byte, options ...Option) (*Schema, error) {
 	// xsd.WithURI(...)
